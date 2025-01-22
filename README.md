@@ -24,7 +24,7 @@ Include a detailed circuit diagram showcasing the connections between:
 - Ultrasonic sensors (front, left, and right)
 - L298N motor driver
 - DC motors
-![Circuit Diagram](Proteus%20Simulation/side.jpeg)
+![Circuit Design](Proteus%20Simulation/Circuit%20Diagram.png)
 
 ## How It Works
 1. The three ultrasonic sensors continuously monitor for obstacles in front, left, and right directions.
