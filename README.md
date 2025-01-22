@@ -1,5 +1,6 @@
 # Autonomous Navigation Car Using Arduino Uno with Triple Ultrasonic Sensors
 
+![Project Pictures](Picture%20Side.jpeg)
 ## Overview
 This project demonstrates the development of an autonomous navigation car that uses Arduino Uno and triple ultrasonic sensors for obstacle detection and avoidance. The system is designed to navigate dynamic environments efficiently and adaptively, making it suitable for applications like robotics, automation, and education.
 
@@ -55,12 +56,12 @@ Include a detailed circuit diagram showcasing the connections between:
 
 ## Performance and Limitations
 ### Performance:
-- Successfully detects obstacles within a range of 20 cm.
+- Successfully detects obstacles within a range of 15 cm.
 - Responds to obstacles within 0.2 seconds.
 - Effective in simple indoor environments.
 
 ### Limitations:
-- Limited detection range (20 cm).
+- Limited detection range (15 cm).
 - Struggles with complex obstacles (e.g., narrow or reflective surfaces).
 - Battery-dependent for prolonged operations.
 - 
