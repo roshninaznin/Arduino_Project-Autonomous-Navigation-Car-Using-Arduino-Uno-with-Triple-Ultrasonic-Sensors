@@ -27,7 +27,6 @@ Include a detailed circuit diagram showcasing the connections between:
 - DC motors
   
    ![Circuit Design](Proteus%20Simulation/Circuit%20Diagram.png)
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](Project%20Pictures%20And%20Video/Video.mp4)
 
 ## How It Works
 1. The three ultrasonic sensors continuously monitor for obstacles in front, left, and right directions.
