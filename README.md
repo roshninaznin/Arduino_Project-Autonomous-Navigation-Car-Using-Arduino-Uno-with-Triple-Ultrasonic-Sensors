@@ -67,7 +67,7 @@ Include a detailed circuit diagram showcasing the connections between:
 - Limited detection range (15 cm).
 - Struggles with complex obstacles (e.g., narrow or reflective surfaces).
 - Battery-dependent for prolonged operations.
-- 
+  
 ## Future Improvements
 - Adding more ultrasonic sensors for 360° obstacle detection.
 - Implementing advanced path-planning algorithms.
