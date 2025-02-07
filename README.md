@@ -1,7 +1,12 @@
 # Autonomous Navigation Car Using Arduino Uno with Triple Ultrasonic Sensors
 
 
-   https://github.com/user-attachments/assets/f7e52316-5a6d-41b9-93fc-bead7704e920
+
+https://github.com/user-attachments/assets/b79b84a5-ec4d-4ce3-8d11-addd81e571ee
+
+
+
+
    ![Project Picture](Project%20Pictures%20And%20Video/Picture%20Side.jpeg)
 
 ## Overview
